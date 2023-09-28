@@ -7,4 +7,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2012-09-26
 ### Added
-- added changelo.md
+- added changelog.md
